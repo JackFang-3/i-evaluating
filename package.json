@@ -1,7 +1,7 @@
 {
-  "name": "vite-project",
+  "name": "i-evaluating",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,5 +14,21 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "vite": "^5.1.6"
+  },
+  "author": {
+    "name": "JacjFang-3",
+    "email": "2117098347@qq.com",
+    "url": "https://github.com/JackFang-3"
+  },
+  "contributors": [],
+  "repository": "https://github.com/JackFang-3/i-evaluating",
+  "keywords": [
+    "vue"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
